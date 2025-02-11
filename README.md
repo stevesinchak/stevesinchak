@@ -1,4 +1,5 @@
-## Hi there 👋
+<div align="center"><img height="180em" src="https://github-widgetbox.vercel.app/api/profile?username=stevesinchak&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%"><div>
+<div align="center"><img src="https://profile-counter.glitch.me/%7Bstevesinchak10%7D/count.svg" alt="visitor badge" width="10%"/></div>
 
 <!--
 **stevesinchak/stevesinchak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
